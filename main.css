@@ -581,4 +581,6 @@ height: 55px;
 top: 45px;
 right: -32px;
 }
+.conversion__info{
+flex-basis: auto;
 }
