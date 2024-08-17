@@ -437,6 +437,7 @@ flex-grow: 1;
 }
 .form-check{
 gap: 8px;
+margin-bottom: 16px;
 }
 .form-check-label{
 color: var(--color-light-grey);
